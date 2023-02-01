@@ -8,7 +8,7 @@
 ![Some weird image](https://miro.medium.com/max/1400/0*RbssIhF4oO7b9ooY)
 
 
-'''
+```
 VBA code
 
 dim a as integer
@@ -16,4 +16,4 @@ dim a as integer
 do while a <10
   a = a +1
 loop
-'''
+```
