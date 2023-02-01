@@ -17,3 +17,8 @@ do while a <10
   a = a +1
 loop
 ```
+
+## Is this a checklist?
+- [x] Yes it is
+- [ ] No it isn't
+- [x] Schrodinger
